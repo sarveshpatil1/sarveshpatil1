@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/sarveshpatil1/sarveshpatil1/assets/50295990/4a517f76-963b-443b-b530-24637ca70136" alt="Django" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins CI/CD" width="40" height="40"/> </a></p>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins CI/CD" width="40" height="40"/> </a>
 
 <h4 align="left">ITSM tools:</h4>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira" width="70" height="40"/> </a> &nbsp
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="Confluence" width="70" height="40"/> </a> &nbsp
-<a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" alt="ServiceNow" width="70" height="40"/> </a> &nbsp
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="Splunk" width="70" height="40"/> </a> </p>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" alt="Jira" width="70" height="40"/>&nbsp;</a> 
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="Confluence" width="70" height="40"/>&nbsp; </a>
+<a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" alt="ServiceNow" width="70" height="40"/> &nbsp;</a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="Splunk" width="70" height="40"/>&nbsp; </a></p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="sarveshpatil1" /></p> -->
