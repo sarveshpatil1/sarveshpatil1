@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Sarvesh Patil</h1>
 <h3 align="center">A software engineer and Data Enthusiast!</h3>
 
-- 🔭 I’m currently studying **at University of Windsor.**
+- 🔭 Currently studying in **University of Windsor.**
 - 🔭 I’m currently working on **Data Engineering project in AWS**
-- 🌱 I’m currently learning **Cloud,Devops and Data Engineering**
-- 👨‍💻 I look forward to learning MERN stack by collaborating with some developers
+- 🌱 Learning **Cloud,Devops and Data Engineering**
+- 👨‍💻 I look forward to learn MERN stack by collaborating with some developers
 - 📫 How to reach me **patil43@uwindsor.ca** or **sarveshpatil0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
