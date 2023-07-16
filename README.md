@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A software engineer and Data Enthusiast!</h3>
 
 - 🔭 I’m currently studying **at University of Windsor.**
-
 - 🔭 I’m currently working on **Data Engineering project in AWS**
-
 - 🌱 I’m currently learning **Cloud,Devops and Data Engineering**
-
 - 👨‍💻 I look forward to learning MERN stack by collaborating with some developers
-
 - 📫 How to reach me **patil43@uwindsor.ca** or **sarveshpatil0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +27,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/sarveshpatil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarveshpatil1" height="30" width="40" /></a>
 <a href="https://instagram.com/sarveshpatil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarveshpatil_" height="30" width="40" /></a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshpatil1&show_icons=true&locale=en&rank_icon=github&hide=issues,contribs" alt="sarveshpatil1" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,5 +60,4 @@ Here are some ideas to get you started:
 <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="Splunk" width="70" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshpatil1&show_icons=true&locale=en&rank_icon=github&hide=issues,contribs" alt="sarveshpatil1" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="sarveshpatil1" /></p> -->
