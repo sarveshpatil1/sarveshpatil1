@@ -13,15 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h1 align="center">Hi there, I'm Sarvesh Patil</h1>
 <h3 align="center">A software engineer and Data Enthusiast!</h3>
 
 - 🔭 Currently studying in **University of Windsor.**
 - 🔭 I’m currently working on **Data Engineering project in AWS**
-- 🌱 Learning **Cloud,Devops and Data Engineering**
+- 🌱 Learning **Cloud,DevOps and Data Engineering**
 - 👨‍💻 I look forward to learn MERN stack by collaborating with some developers
 - 📫 How to reach me **patil43@uwindsor.ca** or **sarveshpatil0000@gmail.com**
 - ⚡ Check out my Github profile<a href="https://github.com/sarveshpatil1" target="blank"> **here**</a>
+- 📃 View my resume <a href="https://drive.google.com/file/d/1hgkFSWHn9gOmPYbuMPPESAmaKdiETirq/view?usp=sharing"
+  target="blank"> **here**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +33,19 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/sarveshpatil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarveshpatil_" height="30" width="40" /></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshpatil1&show_icons=true&locale=en&rank_icon=github&hide=issues,contribs" alt="sarveshpatil1" /></p>
+
+<h3 align="left">Work Experience:</h3>
+<h4 align="left">Tata Consultancy Services</h4>
+<h5 align="left" float="left">Software Engineer (2021-2022)</h5> 
+
+- Communicated regularly with client Credit Suisse cross-functional teams via email and in-person interactions to deliver an optimized solution
+- Collaborated as a member of a 9-person agile Scrum team to develop solutions based on requirements gathered and user stories
+- Efficiently resolved over 25 incidents and change requests from business users every week, by writing scripts in Java, Python, and SQL queries, performing root cause analysis resolving app defects
+- Developed and tested new web pages of MVC framework using HTML, CSS, JavaScript by applying black box, smoke, and UAT testing 
+- Investigated and improved relational database tables by applying concepts of database design and query optimization which improved query performance by 25%
+- Streamlined technical documentation and user guidelines for the client in Confluence
+- Deployed software enhancements in production environment through Jenkins CI/CD utilizing black box, Junit, smoke, and UAT testing to identify defects and report in Jira
+
 <p>
 <h3 align="left">Languages and Tools:</h3>
 
