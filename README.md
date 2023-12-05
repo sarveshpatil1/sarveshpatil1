@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshpatil1&include_all_commits=True&border_radius=10&border_color=4c71f2&show_icons=true&locale=en&rank_icon=github&hide=issues" alt="sarveshpatil1" /></p>
 
 <h3 align="left">Work Experience:</h3>
+<h4 align="left">Enova Power Corp</h4>
+<h5 align="left" float="left">Software Analyst (2023-Present)</h5> 
+
+- Implementing ORACLE CIS (OUAF) for enova power
+- Developed SQL queries and inserted into Oracle CC&B to generate reports which are used by internal teams of the company
+- Managed multiple tickets and issues with the overall system in order to ensure smooth functioning of the business operations, troubleshooted application and infrastructure issues
+- Cleansed data in the data base and prepared it for external vendors to connect to our systems to access the standardized data
+
 <h4 align="left">Tata Consultancy Services</h4>
 <h5 align="left" float="left">Software Engineer (2021-2022)</h5> 
 
