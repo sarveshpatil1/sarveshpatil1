@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Sarvesh Patil</h1>
 <h3 align="center">A Software Engineer and Data Enthusiast!</h3>
 
-- 🔭 Currently studying in **University of Windsor.**
-- 🔭 I’m currently working on **Data Engineering project in AWS**
+- 🔭 I’m currently working on **Data Engineering project in Azure**
 - 🌱 Learning **Cloud,DevOps and Data Engineering**
-- 👨‍💻 I look forward to learn MERN stack by collaborating with some developers
+- 👨‍💻 I look forward to learning by collaborating with some developers
 - 📫 How to reach me **patil43@uwindsor.ca** or **sarveshpatil0000@gmail.com**
 - ⚡ Check out my Github profile<a href="https://github.com/sarveshpatil1" target="blank"> **here**</a>
 - 📃 View my resume <a href="https://drive.google.com/file/d/1hgkFSWHn9gOmPYbuMPPESAmaKdiETirq/view?usp=sharing"
@@ -40,11 +39,11 @@ Here are some ideas to get you started:
 
 - Implementing ORACLE CIS (OUAF) for enova power
 - Developed SQL queries and inserted into Oracle CC&B to generate reports which are used by internal teams of the company
-- Managed multiple tickets and issues with the overall system in order to ensure smooth functioning of the business operations, troubleshooted application and infrastructure issues
+- Managed multiple tickets and issues with the overall system in order to ensure smooth functioning of the business operations, troubleshoot application and infrastructure issues
 - Cleansed data in the data base and prepared it for external vendors to connect to our systems to access the standardized data
 
 <h4 align="left">Tata Consultancy Services</h4>
-<h5 align="left" float="left">Software Engineer (2021-2022)</h5> 
+<h5 align="left" float="left">Data Engineer </h5> 
 
 - Communicated regularly with client Credit Suisse cross-functional teams via email and in-person interactions to deliver an optimized solution
 - Collaborated as a member of a 9-person agile Scrum team to develop solutions based on requirements gathered and user stories
